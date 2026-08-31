@@ -140,5 +140,13 @@ Project/
 ├── spi.h       # SPI and MCP3204 functions
 ├── i2c.h       # I2C functions
 ├── eeprom.c / eeprom.h # EEPROM functions
+
+## 13. Future Enhancements
+
+- IoT/cloud-based remote monitoring.
+- Mobile application for live sensor data.
+- Fingerprint or face authentication.
+- Automatic emergency shutdown of machines.
+- Multi-level user access.
 └── keypad.c / keypad.h # Keypad functions
 ```
