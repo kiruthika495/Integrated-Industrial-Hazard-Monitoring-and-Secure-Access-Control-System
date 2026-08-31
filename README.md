@@ -140,6 +140,7 @@ Project/
 ├── spi.h       # SPI and MCP3204 functions
 ├── i2c.h       # I2C functions
 ├── eeprom.c / eeprom.h # EEPROM functions
+└── keypad.c / keypad.h # Keypad functions
 
 ## 13. Future Enhancements
 
@@ -148,5 +149,5 @@ Project/
 - Fingerprint or face authentication.
 - Automatic emergency shutdown of machines.
 - Multi-level user access.
-└── keypad.c / keypad.h # Keypad functions
+
 ```
